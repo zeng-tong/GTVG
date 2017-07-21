@@ -1,0 +1,12 @@
+server:
+  port: 9999
+
+spring:
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    content-type: text/html
+    cache: false
+  messages:
+    basename: templates/home,templates/subscribe,templates/product/list
+#    spring.messages.basename=
