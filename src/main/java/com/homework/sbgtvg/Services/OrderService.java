@@ -20,7 +20,7 @@
 package com.homework.sbgtvg.Services;
 
 import com.homework.sbgtvg.Model.Order;
-import com.homework.sbgtvg.Model.repositories.OrderRepository;
+import com.homework.sbgtvg.Repositories.OrderRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

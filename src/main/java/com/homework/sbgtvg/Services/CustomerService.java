@@ -21,7 +21,7 @@ package com.homework.sbgtvg.Services;
 
 
 import com.homework.sbgtvg.Model.Customer;
-import com.homework.sbgtvg.Model.repositories.CustomerRepository;
+import com.homework.sbgtvg.Repositories.CustomerRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

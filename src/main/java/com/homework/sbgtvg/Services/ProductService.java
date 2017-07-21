@@ -1,7 +1,7 @@
 package com.homework.sbgtvg.Services;
 
 import com.homework.sbgtvg.Model.Product;
-import com.homework.sbgtvg.Model.repositories.ProductRepository;
+import com.homework.sbgtvg.Repositories.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
